@@ -1,0 +1,1 @@
+Create a notebook from this quickstart @https://quickstarts.snowflake.com/guide/getting_started_with_dynamic_tables/index.html  
